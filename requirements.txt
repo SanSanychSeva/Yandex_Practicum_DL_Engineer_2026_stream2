@@ -1,0 +1,7 @@
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+matplotlib==3.10.0
+PIL==10.4.0
+numpy==1.26.4
+torchsummary==1.5.1
+scikit-learn=1.6.0
