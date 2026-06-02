@@ -1,0 +1,5 @@
+src/__pycache__/
+src/prj/__pycache__/
+data/
+models/
+requirements_sprint_1.txt.old
